@@ -1,6 +1,7 @@
 
 # use these command
 npm install
+||
 npm run dev
 
 # add .env file at root project and add these detailes 
