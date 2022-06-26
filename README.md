@@ -16,7 +16,7 @@ npm run dev
 PORT=4000
 
 # URL of the Mongo DB
-MONGODB_URL=mongodb://127.0.0.1:27017/node-boilerplate
+MONGODB_URL=mongodb://127.0.0.1:27017/to-do_app
 
 # JWT
 # JWT secret key
