@@ -1,7 +1,13 @@
 
 # use these command
+for install Dependencies
+
 npm install
+
 ||
+
+for run project
+
 npm run dev
 
 # add .env file at root project and add these detailes 
